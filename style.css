@@ -1,0 +1,427 @@
+.head{
+    height: 70px;
+    width: 100%;
+    border-bottom: 4px ridge;
+    border-color:white;
+    background-color: white;
+    
+}
+
+
+.name{
+    padding-left: 20%;
+    padding-top: 10px;
+    letter-spacing: 3px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+ 
+.AB{
+    position:absolute;
+    top: 20px;
+    left: 220px;
+}
+
+.cat{
+    position: absolute;
+    left: 75%;
+    top: 11px;
+}
+
+.stalk{
+    padding-left: 59%;
+    letter-spacing: 3px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: absolute;
+    top: 29px;
+}
+
+.info{
+    height: 100px;
+    width: 72%;
+    background-color:white;
+    margin-left: 14%;
+    margin-right: 14%;
+    position: relative;
+    top: 20px;
+    border: 1px ridge;
+    border-color: gray;
+    border-radius:10px; 
+    
+}
+
+.info p{
+    font-family:'Courier New', Courier, monospace;
+	font-size: 21px;
+	color: #000000;
+    text-align: center;
+    letter-spacing: 5px;
+    /* word-spacing: 20px; */
+    font-weight: bolder;
+}
+
+.sled{
+    position: absolute;
+    top: 10px;
+    left: 200px;
+}
+
+.lapka{
+    position: absolute;
+    top: 10px;
+    left: 850px;
+}
+
+.cathestvo{
+    height: 50px;
+    width: 30%;
+    background-color: white;
+    position: relative;
+    top: 41px;
+    margin-left: 14%;
+    border: 1px ridge;
+    border-color: gray;
+    border-radius: 10px;
+
+}
+
+.cathestvo p{
+    font-family:'Courier New', Courier, monospace;
+	font-size: 17px;
+	font-weight: bold;
+    text-align: center;
+    letter-spacing: 7px;
+    font-weight: bolder;
+    padding-left: 10px;
+
+}
+
+.nadejno{
+    height: 50px;
+    width: 30%;
+    background-color: white;
+    position: relative;
+    bottom:11px;
+    margin-left: 56%;
+    border: 1px ridge;
+    border-color: gray;
+    border-radius: 10px;
+}
+
+.nadejno p{
+    font-family:'Courier New', Courier, monospace;
+	font-size: 17px;
+	font-weight: bold;
+    text-align: center;
+    letter-spacing: 5px;
+    font-weight: bolder;
+    padding-left: 10px;
+}
+
+.deviz{
+    height: 210px;
+    width: 68%;
+    margin-left: 16%;
+    margin-right: 16%;
+    position: relative;
+    top: px;
+    background-image:url("котвыглядывает.jfif");
+    background-repeat: no-repeat;
+    background-size: 250px; 
+    background-position:top left;
+}
+
+.deviz p{
+    font-family:'Courier New', Courier, monospace;
+	font-size: 40px;
+	color: #000000;
+    text-align: center;
+    letter-spacing: 10px;
+    word-spacing: 20px;
+    line-height: 15px;
+    font-weight: bolder;
+    text-shadow:  
+     -0   -1px 0   white,
+    0   -1px 0   white,
+   -0    1px 0   white,
+    0    1px 0   white,
+   -1px -0   0   white,
+    1px -0   0   white,
+   -1px  0   0   white,
+    1px  0   0   white,
+   -1px -1px 0   white,
+    1px -1px 0   white,
+   -1px  1px 0   white,
+    1px  1px 0   white,
+   -1px -1px 0   white,
+    1px -1px 0   white,
+   -1px  1px 0   white,
+    1px  1px 0   white;
+}
+
+.price{
+    height: 295px;
+    width: 350px;
+    background-color: #D3D3D3;
+    position: relative;
+    bottom:11px;
+    top: 50px;
+    margin-left: 13%;
+    border: px groove;
+    border-radius: 10px;
+    padding-left: 15px;
+    padding-top: 7px;
+}
+
+.price h1{
+    font-family: 'Courier New', Courier, monospace;
+    list-style-type:circle;
+    line-height: 20px;
+    font-weight: bolder;
+}
+
+.price li{
+    font-family: 'Courier New', Courier, monospace;
+    list-style-type:circle;
+    line-height: 20px;
+    font-weight: bolder;
+}
+
+.vibor{
+    height: 288px;
+    width: 350px;
+    background-color: #D3D3D3;
+    position: relative;
+    bottom:11px;
+    bottom: 252px;
+    margin-left:574px;
+    border: px groove;
+    border-radius: 10px;
+    padding: 6px;
+    padding-left: 15px;
+}
+
+.vibor h1{
+    font-family: 'Courier New', Courier, monospace;
+    list-style-type:circle;
+    line-height: 20px;
+    font-weight: bolder;
+}
+
+.vibor li{
+    font-family: 'Courier New', Courier, monospace;
+    list-style-type:circle;
+    line-height: 20px;
+    font-weight: bolder;
+}
+
+.princip{
+    height: 288px;
+    width: 350px;
+    background-color: #D3D3D3;
+    position: relative;
+    bottom: 552px;
+    margin-left:63%;
+    border: px groove;   
+    border-radius: 10px;
+    padding: 6px;
+    padding-left: 15px;
+}
+
+.princip h1{
+    font-family: 'Courier New', Courier, monospace;
+    list-style-type:circle;
+    line-height: 20px;
+    font-weight: bolder;
+}
+
+.princip li{
+    font-family: 'Courier New', Courier, monospace;
+    list-style-type:circle;
+    line-height: 20px;
+    font-weight: bolder;
+}
+
+.otziv1{
+    width: 74%;
+    height: 260px;
+    margin-left: 13%;
+    margin-right: 13%;
+    position: relative;
+    bottom: 200px;
+    background-image: url("catrap.jpg");
+    background-repeat: no-repeat;
+    background-size: 150px;
+    background-position: left;
+    border-radius: 45%;
+}
+
+
+
+.otziv1 h1{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.otziv1 p{
+    font-family: 'Courier New', Courier, monospace;
+    list-style-type:circle;
+    line-height: 30px;
+    font-weight: bolder;
+    padding-left: 210px;
+    padding-top: 45px;
+}
+
+.otziv2 {
+    width: 74%;
+    height: 260px;
+    margin-left: 13%;
+    margin-right: 13%;
+    position: relative;
+    bottom: 200px;
+    background-image: url("catmister.jpg");
+    background-repeat: no-repeat;
+    background-size: 150px;
+    background-position: left;
+    border-radius: 45%;
+}
+
+.otziv2 p{
+    font-family: 'Courier New', Courier, monospace;
+    list-style-type:circle;
+    line-height: 30px;
+    font-weight: bolder;
+    padding-left: 210px;
+    padding-top: 70px;
+}
+
+.otziv3{
+    width: 74%;
+    height: 260px;
+    margin-left: 13%;
+    margin-right: 13%;
+    position: relative;
+    bottom: 200px;
+    background-image: url("catdelovoy.jpg");
+    background-repeat: no-repeat;
+    background-size: 150px;
+    background-position: left;
+    border-radius: 45%;
+}
+
+.otziv3 p{
+    font-family: 'Courier New', Courier, monospace;
+    list-style-type:circle;
+    line-height: 30px;
+    font-weight: bolder;
+    padding-left: 210px;
+    padding-top: 70px;
+}
+
+.contact{
+    position: relative;
+    bottom: 400px;
+    width: 74%;
+    margin-left: 13%;
+    margin-right: 13%;
+}
+
+.contact h2{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+}
+
+.contact p{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+}
+
+.form-group label{
+display: block;
+font-size: 17px;
+color: black;
+font-family: 'Courier New', Courier, monospace;
+}
+
+.form-group input,
+.form-group textarea{
+    width: 100%;
+    box-sizing: border-box;
+    border: none;
+    background: transparent;
+    border-bottom: 1px solid  #ccc;
+    color: black;
+    padding: 15px 0 10px;
+    outline: none;
+    font-family:'Courier New', Courier, monospace;
+}
+
+.row{
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.row > .form-group{
+    width: 50%;
+    margin-left: 20px;
+}
+
+.row > .form-group:last-child{
+    margin-right:0;
+}
+
+.btn{
+    color: #111;
+    padding: 15px 20px;
+    color: #fff;
+    border: none;
+    font-family: inherit;
+    cursor: pointer;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.btn:hover{
+    opacity: 0.9;
+}
+
+.inf{
+    font-size: 15px;
+    position: relative;
+    bottom: 120px;
+    text-align: center;    
+}
+
+.social{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.vk{
+padding-left: 40px;
+}
+
+.tg{
+    padding-left: 32px;
+}
+
+.email{
+    padding-left: 550px;
+    padding-bottom: 160px;
+}
+
+
+@media only screen and (max-width: 1200px){
+   
+}
+
+@media only screen and (max-width: 1000px){
+   
+}
+
+@media only screen and (max-width: 768px){
+    
+}
+
+@media only screen and (max-width: 480px){
+    
+}
